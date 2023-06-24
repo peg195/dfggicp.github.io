@@ -1,0 +1,66 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+<meta itemprop="image" content="/images/ico64.png" />
+<link href="https://fonts.loli.net/css?family=ZCOOL+KuaiLe" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="/css/style.css" />
+<link rel="shortcut icon" href="favicon.ico">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="dfgg服务器官网">
+<meta property="og:title" content="dfgg服务器官网">
+<meta property="og:description" content="dfgg服务器官网">
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://icp.gov.moe/poster/20230195.jpg" />
+<meta property="og:image" content="https://icp.gov.moe/poster/20230195.jpg">
+<meta property="og:url" content="https://icp.gov.moe/20230195.html">
+<meta itemprop="name" content="dfgg服务器官网" />
+<meta name="description" itemprop="description" content="dfgg服务器官网" />
+<title>dfggICP备20230195号</title>
+</head>
+<body>
+<div class="page">
+<div class="bg"></div>
+<div class="container result">
+<h1 class="title">dfggICP备案查询</h1>
+<div class>
+<div class="info">
+<div class="info-item">
+<div class="lable">网站名称</div>
+<div class="value">dfgg服务器官网</div>
+</div>
+<div class="info-item">
+<div class="lable">网站域名</div>
+<div class="value">dfggmc.cn.eu.org</div>
+</div>
+<div class="info-item">
+<div class="lable">网站首页</div>
+<div class="value"><a style="color:#F08080; text-decoration:none;" href="http://dfggmc.cn.eu.org" target="_blank">dfggmc.cn.eu.org</a></div>
+</div>
+<div class="info-item">
+<div class="lable">网站信息</div>
+<div class="value">dfgg服务器官网</div>
+</div>
+<div class="info-item">
+<div class="lable">dfgg备案号</div>
+<div class="value">dfggICP备20230195号</div>
+</div>
+<div class="info-item">
+<div class="lable">所有者</div>
+<div class="value">peg195</div>
+</div>
+<div class="info-item">
+<div class="lable">更新时间</div>
+<div class="value">2023-06-20</div>
+</div>
+<div class="info-item">
+<div class="lable">状态</div>
+<div class="value">正常</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
